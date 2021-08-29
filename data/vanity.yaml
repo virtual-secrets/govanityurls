@@ -1,7 +1,17 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: kubevault.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /apimachinery:
+    repo: https://github.com/kubevault/apimachinery
+  /cli:
+    repo: https://github.com/kubevault/cli
+  /csi-driver:
+    repo: https://github.com/kubevault/csi-driver
+  /installer:
+    repo: https://github.com/kubevault/installer
+  /operator:
+    repo: https://github.com/kubevault/operator
+  /unsealer:
+    repo: https://github.com/kubevault/unsealer
+  /prometheus-exporter:
+    repo: https://github.com/kubevault/prometheus-exporter
