@@ -5,6 +5,8 @@ paths:
     repo: https://github.com/kubevault/apimachinery
   /cli:
     repo: https://github.com/kubevault/cli
+  /crd-installer:
+    repo: https://github.com/kubevault/crd-installer
   /csi-driver:
     repo: https://github.com/kubevault/csi-driver
   /installer:
