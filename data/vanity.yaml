@@ -17,3 +17,5 @@ paths:
     repo: https://github.com/kubevault/unsealer
   /prometheus-exporter:
     repo: https://github.com/kubevault/prometheus-exporter
+  /secrets-store-reader:
+    repo: https://github.com/kubevault/secrets-store-reader
