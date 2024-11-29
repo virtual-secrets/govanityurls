@@ -6,7 +6,7 @@
     "appscode-govanityurls": {
       "hosting": {
         "hugo": [
-          "kubevault-govanityurls"
+          "virtual-secrets-govanityurls"
         ]
       }
     }

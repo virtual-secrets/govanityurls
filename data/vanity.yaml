@@ -1,21 +1,8 @@
-host: kubevault.dev
-
+host: go.virtual-secrets.dev
 paths:
-  /apimachinery:
-    repo: https://github.com/kubevault/apimachinery
-  /cli:
-    repo: https://github.com/kubevault/cli
-  /crd-installer:
-    repo: https://github.com/kubevault/crd-installer
-  /csi-driver:
-    repo: https://github.com/kubevault/csi-driver
+  /api:
+    repo: https://github.com/virtual-secrets/api
   /installer:
-    repo: https://github.com/kubevault/installer
+    repo: https://github.com/virtual-secrets/installer
   /operator:
-    repo: https://github.com/kubevault/operator
-  /unsealer:
-    repo: https://github.com/kubevault/unsealer
-  /prometheus-exporter:
-    repo: https://github.com/kubevault/prometheus-exporter
-  /secrets-store-reader:
-    repo: https://github.com/kubevault/secrets-store-reader
+    repo: https://github.com/virtual-secrets/operator
