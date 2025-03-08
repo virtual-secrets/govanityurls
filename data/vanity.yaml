@@ -1,7 +1,9 @@
 host: go.virtual-secrets.dev
 paths:
-  /api:
-    repo: https://github.com/virtual-secrets/api
+  /apimachinery:
+    repo: https://github.com/virtual-secrets/apimachinery
+  /csi-provider:
+    repo: https://github.com/virtual-secrets/csi-provider
   /installer:
     repo: https://github.com/virtual-secrets/installer
   /operator:
