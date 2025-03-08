@@ -6,5 +6,5 @@ paths:
     repo: https://github.com/virtual-secrets/csi-provider
   /installer:
     repo: https://github.com/virtual-secrets/installer
-  /operator:
-    repo: https://github.com/virtual-secrets/operator
+  /server:
+    repo: https://github.com/virtual-secrets/server
